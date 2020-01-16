@@ -1,0 +1,75 @@
+*,header{
+    margin: auto;
+    text-align: center;
+}
+.cbody {
+    color:black;
+    background-color:rgb(255, 0, 0);
+    border : 30px solid rgb(255, 255, 255);
+    }
+
+h1{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:auto;
+    font-size: 50px;
+}
+
+table{
+    margin-top: 150px;
+    margin-bottom: 118px;
+    top:20%;
+    left: 38%;
+    border-collapse: collapse;
+    background-color: rgb(13, 77, 11);
+}
+
+
+td{
+    border : 5px solid black;
+    min-width: 100px;
+    min-height: 100px;
+    padding: 0.5em;
+    font-size: 400%;
+}
+
+.taken:hover{
+    background-color:rgb(16, 94, 9);
+}
+
+header{
+    font-size: 400%;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    left : 50%;
+}
+
+.corpMenu{
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    background-size: 100% auto;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.blockMenu{
+    margin-top: 200px;
+    border : 10px solid rgb(0, 0, 0);
+    margin-right: 450px;
+    margin-left: 450px;
+    text-shadow: 2px 0 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 0 2px 0 rgb(0, 0, 0), -2px 2px 0 rgb(0, 0, 0), -2px 0 0 rgb(0, 0, 0), -2px -2px 0 rgb(0, 0, 0), 0 -2px 0 rgb(0, 0, 0), 2px -2px 0 rgb(0, 0, 0);
+}
+
+.bouton{
+    background-color: rgb(38, 17, 226);
+    border: solid 4px black;
+    font-size: 25px;
+}
